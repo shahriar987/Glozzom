@@ -1,0 +1,90 @@
+/*Navbar*/
+.navbar-nav{
+    margin-right: 4px !important;
+    
+}
+/*carousel*/
+.carousel-item{
+    height: 450px;
+}
+.carousel-img-1{
+    background-image: url("../img/image1.jpeg");
+    background-size: cover;
+}
+.carousel-img-2{
+    background-image: url("../img/image2.jpeg");
+    background-size: cover;
+}
+.carousel-img-3{
+    background-image: url("../img/image3.jpeg");
+    background-size: cover;
+}
+/*info*/
+.info .row .card{
+border: none;
+}
+/*Ready*/
+.ready{
+    background-image: url("../img/bg1.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+}
+
+.ready .dark-overlay{
+    background-color: rgba(65, 64, 66, 0.86);
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 250px;
+}
+/*Video*/
+.video{
+    background-image: url(../img/people.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 250px;
+}
+
+.video .dark-overlay{
+    background-color: rgba(6, 6, 6, 0.67);
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 250px;
+}
+.video .icon i{
+    color: red;
+    font-size: 32px;
+}
+/*photo*/
+.photo h2{
+    margin-top: 90px;
+}
+/*Signup*/
+.signup{
+    background-color: #343A40;
+}
+/*ABout Us-header*/
+.header{
+    background-image: url("../img/image1.jpeg");
+}
+/*box*/
+.box i{
+    font-size: 48px;
+}
+/*ABout Us-header*/
+.services{
+    background-image: url("../img/image3.jpeg");
+}
+/*Blog*/
+.blog{
+    background-image: url("../img/image3.jpeg");
+}
+/*contact*/
+.contact{
+    background-image: url("../img/image3.jpeg");
+}
